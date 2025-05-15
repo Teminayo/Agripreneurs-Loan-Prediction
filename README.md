@@ -51,7 +51,7 @@ An interactive Power BI dashboard was developed to:
 - Provide insights into financial accessibility for young agripreneurs  
 - Support decision-making for policymakers and financial institutions  
 
-🔗 **[View Dashboard (Power BI)](https://app.powerbi.com/...)**  
+🔗 **[View Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiYjkxOTUxNjctNTY1Mi00MzhkLTg4MzItMzlmY2NiZjNiYTU5IiwidCI6ImI4NDk0ZTk4LTI5NmQtNGJjMC1hMjIyLWY0YjM1ZTc1NjNjYyJ9)**  
 *(Replace the link above with your actual dashboard URL)*
 
 ---
