@@ -83,6 +83,7 @@ Develop a data-driven solution that enables **banks**, **investors**, and **micr
 
 ---
 
+
 ## 🧹 Data Cleaning
 
 ### 🗂️ Dataset Description  
@@ -130,26 +131,43 @@ df['Self_Employed'] = df['Self_Employed'].fillna(df['Self_Employed'].mode()[0])
           precision    recall  f1-score   support
        0       0.00      0.00      0.00       187
        1       0.84      1.00      0.91       993
-
+```
 
 > ⚠️ The model shows a strong bias toward positive predictions (loan approved). Further **tuning or class balancing** is recommended for deployment.
 
 
 ---
-
-
+---
 ## 👥 Team Members
 
 We are a team of three who collaborated on this project:
 
-- **Ibinayo Blessing Temilade**  
-  [LinkedIn](https://www.linkedin.com/in/blessing-temilade/)
+- [Ibinayo Blessing Temilade](https://www.linkedin.com/in/blessing-temilade/)
+- [Mercy Erioluwa Adewusi](https://www.linkedin.com/in/mercy-erioluwa-adewusi)
+- [Stephen Olusegun](https://www.linkedin.com/in/stephen0lusegun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-- **Mercy Erioluwa Adewusi**  
-  [LinkedIn](https://www.linkedin.com/in/mercy-erioluwa-adewusi)
 
-- **Stephen Olusegun**  
-  [LinkedIn](https://www.linkedin.com/in/stephen0lusegun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
